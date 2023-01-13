@@ -6,4 +6,4 @@ Kelompok 13:
 - Kanaan Sinaga (2122017)
 - Amran Joel Lumbatobing (2122014)
 
-Link Bot : @CE2811_2122_SMT1_Kel_13_bot
+Link Bot : http://t.me/CE2811_2122_SMT1_Kel_13_bot
